@@ -17,7 +17,7 @@ Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.gi
   
 Reviews and developed sites [https://www.weblancer.net/users/gratta/](https://www.weblancer.net/users/gratta/)<br><br>
 
-**Full Stack PHP Developer**  @ [Burj Auto DWC LLC – Dubai, United Arab Emirates](https://burauto.com/) 09/2019 to 04/2020 <br>
+**Lead PHP Developer**  @ [Burj Auto DWC LLC – Dubai, United Arab Emirates](https://burauto.com/) 09/2019 to 04/2020 <br>
 Managed team (3 people) in accordance with Scrum methodology. Developed the key company
 product from scratch (Auto logistics system for the sale of spare parts) using PHP, MySQL and
 Redis. Development of a new direction for sending private parcels. Development of a
