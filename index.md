@@ -17,7 +17,7 @@ Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.gi
   
 Reviews and developed sites [https://www.weblancer.net/users/gratta/](https://www.weblancer.net/users/gratta/)<br><br>
 
-**Full Stack PHP Developer**  @ [Burj Auto DWC LLC – Dubai, United Arab Emirates](https://burauto.com/) 09/2019 to 04/2020
+**Full Stack PHP Developer**  @ [Burj Auto DWC LLC – Dubai, United Arab Emirates](https://burauto.com/) 09/2019 to 04/2020 <br>
 Managed team (3 people) in accordance with Scrum methodology. Developed the key company
 product from scratch (Auto logistics system for the sale of spare parts) using PHP, MySQL and
 Redis. Development of a new direction for sending private parcels. Development of a
@@ -25,12 +25,12 @@ warehouse web application for receiving and sending auto parts. Refactoring and 
 of the system code. Scaled system horizontally by implementing CQRS. Optimized MySql
 indices, slow SQL queries.
 
-**Lead PHP Developer**  @ [Froza Auto](https://froza.ru/) 09/2012 to 08/2015
+**Lead PHP Developer**  @ [Froza Auto](https://froza.ru/) 09/2012 to 08/2015 <br>
 Development big e-commerce project from scratch. Project architecture, programming,
 management team, technical support.
 Worked directly with customers and reported to general management.
 
-**Lead PHP Developer**  @ [Burj Auto DWC LLC – Moscow](https://burauto.com/)  01/2015 to 01/2016
+**Lead PHP Developer**  @ [Burj Auto DWC LLC – Moscow](https://burauto.com/)  01/2015 to 01/2016 <br>
 Development big e-commerce project from scratch.
 Project architecture, programming, management team, technical support.
 Worked directly with customers and reported to general management.
@@ -39,15 +39,15 @@ Development big e-commerce project from scratch.
 Project architecture, programming, management team, technical support.
 Worked directly with customers and reported to general management.
 
-**Lead PHP Developer**  @ [Burj Auto DWC LLC – Kiev](https://burauto.com/) 01/2008 to 01/2012
+**Lead PHP Developer**  @ [Burj Auto DWC LLC – Kiev](https://burauto.com/) 01/2008 to 01/2012 <br>
 Development big e-commerce project from scratch.
 Project architecture, programming, management team, technical support.
 Worked directly with customers and reported to general management.
 
-**PHP Programmer** @ Innovative Marketing Ukraine 09/2006 to 01/2007
+**PHP Programmer** @ Innovative Marketing Ukraine 09/2006 to 01/2007 <br>
 Development of websites, technical support
 
-**PHP Programmer** @ Oksima Biz 01/2005 to 01/2006
+**PHP Programmer** @ Oksima Biz 01/2005 to 01/2006 <br>
 Development of websites, technical support.
 
 ## Languages
