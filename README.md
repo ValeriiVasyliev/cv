@@ -61,5 +61,6 @@ Development of websites, technical support.
 ## 🎓 Education
 
 **High School Diploma** 
-[National Technical University of Ukraine 'Kyiv Polytechnic Institute'](https://kpi.ua/en) - Kiev, Ukraine _(Sep 2003 - Jun 2009)_ <br>
+[National Technical University of Ukraine 'Kyiv Polytechnic Institute'](https://kpi.ua/en) <br>
+Kiev, Ukraine _(Sep 2003 - Jun 2009)_ <br>
 Master's degree, Applied Mathematics · (2003 - 2009)
