@@ -16,3 +16,11 @@ Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.gi
   - to increase visitor satisfaction.
   
 Reviews and developed sites [https://www.weblancer.net/users/gratta/](https://www.weblancer.net/users/gratta/)<br><br>
+
+## Languages
+
+**Russian**: Native <br>
+**Ukrainian**: Native <br>
+**Engslish**: B1 <br>
+**Spanish**: A2
+<br><br>
