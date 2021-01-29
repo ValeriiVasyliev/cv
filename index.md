@@ -15,4 +15,4 @@ Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.gi
   - Manage a user guide to help clients understand site features and management of website
   - to increase visitor satisfaction.
   
-Reviews and developed sites https://www.weblancer.net/users/gratta/<br><br>
+Reviews and developed sites [https://www.weblancer.net/users/gratta/](https://www.weblancer.net/users/gratta/)<br><br>
