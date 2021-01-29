@@ -44,7 +44,7 @@ Development big e-commerce project from scratch.
 Project architecture, programming, management team, technical support.
 Worked directly with customers and reported to general management.
 
-**PHP Programmer** @ Innovative Marketing Ukraine 09/2006 to 01/2007 <br>
+**PHP Programmer** @ [Innovative Marketing Ukraine](https://www.linkedin.com/company/innovative-marketing-ukraine/) 09/2006 to 01/2007 <br>
 Development of websites, technical support
 
 **PHP Programmer** @ Oksima Biz 01/2005 to 01/2006 <br>
