@@ -4,7 +4,7 @@ Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.gi
 
 [Email](mailto:info@gratta.pro) / [Website](https://gratta.pro/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) 
 
-## Technical Experience
+## 💻 Technical Experience
 
 **Full Stack Wordpress Web Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Present)_ <br>
   - Build websites using WordPress.
@@ -17,6 +17,39 @@ Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.gi
   
 Reviews and developed sites [https://www.weblancer.net/users/gratta/](https://www.weblancer.net/users/gratta/)<br><br>
 
+**Full Stack PHP Developer**  @ [Burj Auto DWC LLC – Dubai, United Arab Emirates](https://burauto.com/) 09/2019 to 04/2020
+Managed team (3 people) in accordance with Scrum methodology. Developed the key company
+product from scratch (Auto logistics system for the sale of spare parts) using PHP, MySQL and
+Redis. Development of a new direction for sending private parcels. Development of a
+warehouse web application for receiving and sending auto parts. Refactoring and optimization
+of the system code. Scaled system horizontally by implementing CQRS. Optimized MySql
+indices, slow SQL queries.
+
+**Lead PHP Developer**  @ [Froza Auto](https://froza.ru/) 09/2012 to 08/2015
+Development big e-commerce project from scratch. Project architecture, programming,
+management team, technical support.
+Worked directly with customers and reported to general management.
+
+**Lead PHP Developer**  @ [Burj Auto DWC LLC – Moscow](https://burauto.com/)  01/2015 to 01/2016
+Development big e-commerce project from scratch.
+Project architecture, programming, management team, technical support.
+Worked directly with customers and reported to general management.
+Moscow 01/2012 to 01/2015
+Development big e-commerce project from scratch.
+Project architecture, programming, management team, technical support.
+Worked directly with customers and reported to general management.
+
+**Lead PHP Developer**  @ [Burj Auto DWC LLC – Kiev](https://burauto.com/) 01/2008 to 01/2012
+Development big e-commerce project from scratch.
+Project architecture, programming, management team, technical support.
+Worked directly with customers and reported to general management.
+
+**PHP Programmer** @ Innovative Marketing Ukraine 09/2006 to 01/2007
+Development of websites, technical support
+
+**PHP Programmer** @ Oksima Biz 01/2005 to 01/2006
+Development of websites, technical support.
+
 ## Languages
 
 **Russian**: Native <br>
@@ -24,3 +57,9 @@ Reviews and developed sites [https://www.weblancer.net/users/gratta/](https://ww
 **Engslish**: B1 <br>
 **Spanish**: A2
 <br><br>
+
+## 🎓 Education
+
+**High School Diploma** 
+[National Technical University of Ukraine 'Kyiv Polytechnic Institute'](https://kpi.ua/en) - Kiev, Ukraine _(Sep 2003 - Jun 2009)_ <br>
+Master's degree, Applied Mathematics · (2003 - 2009)
