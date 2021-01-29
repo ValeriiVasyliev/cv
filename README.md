@@ -4,6 +4,26 @@ Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.gi
 
 [Email](mailto:info@gratta.pro) / [Website](https://gratta.pro/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) 
 
+## Professional Summary
+
+Proficient and creative WordPress developer with a strong history in website management and development. <br>
+Expert in all aspects of WordPress website creation, including design, plug-ins, and implementation.<br>
+Skilled in creating engaging and interactive websites.<br>
+Excel at team projects and leadership.<br>
+Detail-oriented and knowledgeable in various programming languages.<br>
+
+## Skills
+
+  - PHP
+  - Wordpress
+  - Woocommerce
+  - CSS
+  - HTML
+  - JavaScript
+  - MySQL
+  - Redis
+  - GIT
+
 ## 💻 Technical Experience
 
 **Full Stack Wordpress Web Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Present)_ <br>
