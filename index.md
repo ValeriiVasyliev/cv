@@ -1,3 +1,9 @@
+# Valerii Vasyliev
+
+Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png" width="13"/> <b>Kiev, Ukraine</b> <br>
+
+[Email](mailto:info@gratta.pro) / [Website](https://gratta.pro/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ValeriiVasyliev/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
