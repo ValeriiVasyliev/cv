@@ -1,13 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WZCQ76ZG8K"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WZCQ76ZG8K');
-</script>
-
 # Valerii Vasyliev
 
 Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png" width="13"/> <b>Kiev, Ukraine</b> <br>
