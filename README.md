@@ -26,6 +26,9 @@ Detail-oriented and knowledgeable in various programming languages.<br>
 
 ## 💻 Technical Experience
 
+**Senior PHP Developer** @ [AWTG Ltd](https://awtg.co.uk/)  _(Mar 2012 - Present)_ <br>
+Development big e-commerce project. Project architecture, programming.
+
 **Full Stack Wordpress Web Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Present)_ <br>
   - Build websites using WordPress.
   - Provide technical support to clients.
