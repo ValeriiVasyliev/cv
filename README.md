@@ -77,7 +77,7 @@ Development of websites, technical support.
 
 **Russian**: Native <br>
 **Ukrainian**: Native <br>
-**Engslish**: B1 <br>
+**English**: B2 <br>
 **Spanish**: A2
 <br><br>
 
