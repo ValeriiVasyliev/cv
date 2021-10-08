@@ -1,11 +1,10 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/profile.jpg
-description: >-
-  Welcome to my website ! 
 author: Valerii Vasyliev
 email: info@gratta.pro
-title: CV
-description: Valerii Vasyliev's CV
+title: Valerii Vasyliev's CV
+description: >-
+  Welcome to my website ! 
 
 google_analytics: UA-6622139-13
 
