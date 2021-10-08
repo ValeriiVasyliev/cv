@@ -1,11 +1,18 @@
 theme: jekyll-theme-minimal
+author: Valerii Vasyliev
 email: info@gratta.pro
 title: CV
 description: Valerii Vasyliev's CV
 
 google_analytics: UA-6622139-13
+
+# social links
+twitter_username: valeriivasyliev
+github_username: valeriivasyliev
 linkedin_username: vvasyliev
-author:             Valerii Vasyliev
+
+# project links:
+twitter: https://twitter.com/valeriiVasiliev
 
 # Build settings
 plugins:
