@@ -1,6 +1,6 @@
 # Valerii Vasyliev
 
-Full Stack PHP Developer / Wordpress Developer based in <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png" width="13"/> <b>Kiev, Ukraine</b> <br>
+Full Stack PHP Developer / WordPress Developer based in <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png" width="13"/> <b>Kiev, Ukraine</b> <br>
 
 [Email](mailto:info@gratta.pro)  / [Telegram](https://t.me/ValeriiVasyliev)  / [Website](https://gratta.pro/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) / [RU Stack Overflow](https://ru.stackoverflow.com/users/306230/valerii-vasiliev) 
 
@@ -15,7 +15,7 @@ Detail-oriented and knowledgeable in various programming languages.<br>
 ## Skills
 
   - PHP
-  - Wordpress
+  - WordPress
   - Woocommerce
   - CSS
   - HTML
@@ -29,7 +29,7 @@ Detail-oriented and knowledgeable in various programming languages.<br>
 **Senior PHP Developer** @ [AWTG Ltd](https://awtg.co.uk/)  _(Mar 2021 - Present)_ <br>
 Development big e-commerce project. Project architecture, programming.
 
-**Full Stack Wordpress Web Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Present)_ <br>
+**Full Stack WordPress Web Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Present)_ <br>
   - Build websites using WordPress.
   - Provide technical support to clients.
   - Write coding using HTML and CSS.
