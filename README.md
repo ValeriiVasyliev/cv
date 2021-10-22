@@ -2,7 +2,7 @@
 
 Full Stack PHP Developer / WordPress Developer based in <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png" width="13"/> <b>Kiev, Ukraine</b> <br>
 
-[Email](mailto:info@gratta.pro)  / [Telegram](https://t.me/ValeriiVasyliev)  / [Website](https://gratta.pro/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) / [RU Stack Overflow](https://ru.stackoverflow.com/users/306230/valerii-vasiliev) 
+[Email](mailto:info@gratta.pro)  / [Telegram](https://t.me/ValeriiVasyliev)  / [Website](https://valera.codes/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) / [RU Stack Overflow](https://ru.stackoverflow.com/users/306230/valerii-vasiliev) 
 
 ## Professional Summary
 
