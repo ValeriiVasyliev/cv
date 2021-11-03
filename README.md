@@ -26,7 +26,7 @@ Detail-oriented and knowledgeable in various programming languages.<br>
 
 ## 💻 Technical Experience
 
-**Lead WordPress/PHP Developerr** @ [Spiral Scout](https://spiralscout.com/)  _(Oct 2021 - Present)_ <br>
+**Lead WordPress/PHP Developer** @ [Spiral Scout](https://spiralscout.com/)  _(Oct 2021 - Present)_ <br>
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
 
 **Senior WordPress/PHP Developer** @ [AWTG Ltd](https://awtg.co.uk/)  _(Mar 2021 - Present)_ <br>
