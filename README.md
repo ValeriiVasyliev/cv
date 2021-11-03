@@ -26,10 +26,14 @@ Detail-oriented and knowledgeable in various programming languages.<br>
 
 ## 💻 Technical Experience
 
-**Senior PHP Developer** @ [AWTG Ltd](https://awtg.co.uk/)  _(Mar 2021 - Present)_ <br>
-Development big e-commerce project. Project architecture, programming.
+**Lead WordPress/PHP Developerr** @ [Spiral Scout](https://spiralscout.com/)  _(Oct 2021 - Present)_ <br>
+Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
 
-**Full Stack WordPress Web Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Present)_ <br>
+**Senior WordPress/PHP Developer** @ [AWTG Ltd](https://awtg.co.uk/)  _(Mar 2021 - Present)_ <br>
+Development of an advanced e-commerce platform that has robust and powerful gamification features and integration with various partners.
+Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
+
+**Full Stack WordPress Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Present)_ <br>
   - Build websites using WordPress.
   - Provide technical support to clients.
   - Write coding using HTML and CSS.
