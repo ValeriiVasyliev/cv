@@ -16,7 +16,7 @@ Detail-oriented and knowledgeable in various programming languages.<br>
 
   - PHP
   - WordPress
-  - Woocommerce
+  - WooCommerce
   - CSS
   - HTML
   - JavaScript
@@ -26,7 +26,23 @@ Detail-oriented and knowledgeable in various programming languages.<br>
 
 ## 💻 Technical Experience
 
-**Lead WordPress Developer** @ [Spiral Scout](https://spiralscout.com/)  _(Oct 2021 - Present)_ <br>
+**Senior WordPress Developer** @ [NitroPack](https://nitropack.io/) - Part-time _(Nov 2022 - Present)_ <br>
+- Researching, designing, and managing software programs
+- Testing and evaluating new programs
+- Modifying software to fix errors, and improve its performance
+- Deploying software tools, processes and metrics
+- Directing software programming and documentation development
+- Writing and implementing code
+- Preparing reports on programming project specifications, activities, or status
+- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.
+
+**Lead WordPress Developer** @ [Spiral Scout](https://spiralscout.com/) - Part-time _(Oct 2021 - Present)_ <br>
+Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
+
+**Lead WordPress Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/) - Part-time _(Oct 2021 - Present)_ <br>
+Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
+
+**Lead WordPress Developer** @ [Spiral Scout](https://spiralscout.com/) - Full-time  _(Oct 2021 - Sep 2022)_ <br>
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
 
 **Lead WordPress Developer | Ecommerce Technical Lead** @ [AWTG Ltd](https://awtg.co.uk/)  _(Mar 2021 - Jun 2022)_ <br>
