@@ -49,14 +49,15 @@ Project architecture, programming, management team, technical support. Worked di
 Development of an advanced e-commerce platform that has robust and powerful gamification features and integration with various partners.
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
 
-**Full Stack WordPress Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Mar 2021)_ <br>
-  - Build websites using WordPress.
-  - Provide technical support to clients.
-  - Write coding using HTML and CSS.
-  - Design new features for existing websites.
-  - Customize themes to meet clients’ requirements.
-  - Manage a user guide to help clients understand site features and management of website
-  - to increase visitor satisfaction.
+**Full Stack PHP Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/)  _(Jan 2012 - Mar 2021)_ <br>
+- Researching, designing, and managing software programs
+- Testing and evaluating new programs
+- Modifying software to fix errors, and improve its performance
+- Deploying software tools, processes and metrics
+- Directing software programming and documentation development
+- Writing and implementing code
+- Preparing reports on programming project specifications, activities, or status
+- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.
   
 Reviews and developed sites [https://www.weblancer.net/users/gratta/](https://www.weblancer.net/users/gratta/)<br><br>
 
