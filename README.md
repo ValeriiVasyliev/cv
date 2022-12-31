@@ -1,6 +1,6 @@
 # Valerii Vasyliev
 
-Full Stack PHP Developer / WordPress Developer based in <b>Ubud, Indonesia</b> <br>
+WordPress/WooCommerce Expert based in <b>Ubud, Indonesia</b> <br>
 
 [Email](mailto:hello@valera.codes)  / [Telegram](https://t.me/ValeriiVasyliev)  / [Website](https://valera.codes/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) / [RU Stack Overflow](https://ru.stackoverflow.com/users/306230/valerii-vasiliev) 
 
