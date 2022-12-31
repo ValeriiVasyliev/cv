@@ -96,10 +96,10 @@ Development of websites, technical support.
 
 ## Languages
 
+**English**: B2 <br>
 **Russian**: Native <br>
 **Ukrainian**: Native <br>
-**English**: B2 <br>
-**Spanish**: A2
+**Spanish**: A1
 <br><br>
 
 ## 🎓 Education
