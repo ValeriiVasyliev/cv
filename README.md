@@ -6,11 +6,7 @@ WordPress/WooCommerce Expert based in <b>Ubud, Indonesia</b> <br>
 
 ## Professional Summary
 
-Proficient and creative WordPress developer with a strong history in website management and development. <br>
-Expert in all aspects of WordPress website creation, including design, plug-ins, and implementation.<br>
-Skilled in creating engaging and interactive websites.<br>
-Excel at team projects and leadership.<br>
-Detail-oriented and knowledgeable in various programming languages.<br>
+I am a proficient and creative WordPress developer with extensive experience in website management and development. My expertise includes all aspects of WordPress website creation, from design and implementation to the integration of various plug-ins. I am skilled in creating engaging and interactive websites that capture the attention of users. I excel in team projects and possess strong leadership skills. I am highly detail-oriented and proficient in several programming languages.
 
 ## Skills
 
