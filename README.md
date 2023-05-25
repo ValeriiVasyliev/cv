@@ -1,6 +1,6 @@
 # Valerii Vasyliev
 
-WordPress/WooCommerce Expert based in <b>Ubud, Indonesia</b> <br>
+Certified Codeable Expert Developer, WordPress Engineer based in <b>Ubud, Indonesia</b> <br>
 
 [Email](mailto:hello@valera.codes)  / [Telegram](https://t.me/ValeriiVasyliev)  / [Website](https://valera.codes/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) / [RU Stack Overflow](https://ru.stackoverflow.com/users/306230/valerii-vasiliev) 
 
@@ -22,15 +22,12 @@ I am a proficient and creative WordPress developer with extensive experience in 
 
 ## 💻 Technical Experience
 
+**Certified Codeable Expert Developer, WordPress Engineer** @ [Codeable](https://www.codeable.io/developers/valerii-vasyliev/) - Part-time _(Jan 2023 - Present)_ <br>
+Ny responsibilities include direct client-developer communication, analyzing client briefs/assets, creating estimates, setting milestones and tasks, programming, and providing ongoing support and bug fixes for created applications.
+The programming aspect of my work entails various tasks such as custom API integration, WordPress plugin creation and maintenance, solving complex programming problems, and developing both front-end and back-end WordPress themes.
+
 **Senior WordPress Developer** @ [NitroPack](https://nitropack.io/) - Part-time _(Nov 2022 - Present)_ <br>
-- Researching, designing, and managing software programs
-- Testing and evaluating new programs
-- Modifying software to fix errors, and improve its performance
-- Deploying software tools, processes and metrics
-- Directing software programming and documentation development
-- Writing and implementing code
-- Preparing reports on programming project specifications, activities, or status
-- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.
+This role involves researching, designing, and managing software programs, testing and evaluating new programs, modifying software to enhance performance and fix errors, deploying software tools and processes, directing programming and documentation development, writing and implementing code, preparing reports on project specifications and activities, and consulting with engineering staff to develop software-hardware interfaces and performance requirements.
 
 **Lead WordPress Developer** @ [Spiral Scout](https://spiralscout.com/) - Part-time _(Oct 2021 - Present)_ <br>
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
