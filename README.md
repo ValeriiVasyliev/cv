@@ -23,7 +23,7 @@ I am a proficient and creative WordPress developer with extensive experience in 
 ## 💻 Technical Experience
 
 **Certified Codeable Expert Developer, WordPress Engineer** @ [Codeable](https://www.codeable.io/developers/valerii-vasyliev/) - Part-time _(Jan 2023 - Present)_ <br>
-Ny responsibilities include direct client-developer communication, analyzing client briefs/assets, creating estimates, setting milestones and tasks, programming, and providing ongoing support and bug fixes for created applications.
+My responsibilities include direct client-developer communication, analyzing client briefs/assets, creating estimates, setting milestones and tasks, programming, and providing ongoing support and bug fixes for created applications.
 The programming aspect of my work entails various tasks such as custom API integration, WordPress plugin creation and maintenance, solving complex programming problems, and developing both front-end and back-end WordPress themes.
 
 **Senior WordPress Developer** @ [NitroPack](https://nitropack.io/) - Part-time _(Nov 2022 - Present)_ <br>
