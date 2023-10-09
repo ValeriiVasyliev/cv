@@ -26,14 +26,17 @@ I am a proficient and creative WordPress developer with extensive experience in 
 My responsibilities include direct client-developer communication, analyzing client briefs/assets, creating estimates, setting milestones and tasks, programming, and providing ongoing support and bug fixes for created applications.
 The programming aspect of my work entails various tasks such as custom API integration, WordPress plugin creation and maintenance, solving complex programming problems, and developing both front-end and back-end WordPress themes.
 
-**Senior WordPress Developer** @ [NitroPack](https://nitropack.io/) - Part-time _(Nov 2022 - Present)_ <br>
-This role involves researching, designing, and managing software programs, testing and evaluating new programs, modifying software to enhance performance and fix errors, deploying software tools and processes, directing programming and documentation development, writing and implementing code, preparing reports on project specifications and activities, and consulting with engineering staff to develop software-hardware interfaces and performance requirements.
-
 **Lead WordPress Developer** @ [Spiral Scout](https://spiralscout.com/) - Part-time _(Oct 2021 - Present)_ <br>
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
 
 **Lead WordPress Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/) - Part-time _(Oct 2021 - Present)_ <br>
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
+
+**Codeable WordPress Expert** @ [Codeable](https://www.codeable.io/) - Part-time _(Jan 2023 - Present)_ <br>
+I specialize in crafting custom plugins, designing distinctive themes, and building dynamic web applications. My focus is on optimizing performance, and fortifying security.
+
+**Senior WordPress Developer** @ [NitroPack](https://nitropack.io/) - Part-time _(Nov 2022 - Oct 2023)_ <br>
+This role involves researching, designing, and managing software programs, testing and evaluating new programs, modifying software to enhance performance and fix errors, deploying software tools and processes, directing programming and documentation development, writing and implementing code, preparing reports on project specifications and activities, and consulting with engineering staff to develop software-hardware interfaces and performance requirements.
 
 **Lead WordPress Developer** @ [Spiral Scout](https://spiralscout.com/) - Full-time  _(Oct 2021 - Sep 2022)_ <br>
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
