@@ -32,9 +32,6 @@ Project architecture, programming, management team, technical support. Worked di
 **Lead WordPress Developer** @ [Gratta studio | Web & Mobile Development](https://gratta.pro/) - Part-time _(Oct 2021 - Present)_ <br>
 Project architecture, programming, management team, technical support. Worked directly with customers and reported to general management. 
 
-**Codeable WordPress Expert** @ [Codeable](https://www.codeable.io/) - Part-time _(Jan 2023 - Present)_ <br>
-I specialize in crafting custom plugins, designing distinctive themes, and building dynamic web applications. My focus is on optimizing performance, and fortifying security.
-
 **Senior WordPress Developer** @ [NitroPack](https://nitropack.io/) - Part-time _(Nov 2022 - Oct 2023)_ <br>
 This role involves researching, designing, and managing software programs, testing and evaluating new programs, modifying software to enhance performance and fix errors, deploying software tools and processes, directing programming and documentation development, writing and implementing code, preparing reports on project specifications and activities, and consulting with engineering staff to develop software-hardware interfaces and performance requirements.
 
