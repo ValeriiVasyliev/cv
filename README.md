@@ -93,6 +93,7 @@ Development of websites, technical support.
 **Russian**: Native <br>
 **Ukrainian**: Native <br>
 **Spanish**: A1
+**Indonesian**: A1
 <br><br>
 
 ## 🎓 Education
