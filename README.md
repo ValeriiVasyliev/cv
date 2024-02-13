@@ -92,7 +92,7 @@ Development of websites, technical support.
 **English**: B2 <br>
 **Russian**: Native <br>
 **Ukrainian**: Native <br>
-**Spanish**: A1
+**Spanish**: A1 <br>
 **Indonesian**: A1
 <br><br>
 
