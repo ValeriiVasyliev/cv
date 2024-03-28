@@ -1,6 +1,6 @@
 # Valerii Vasyliev
 
-Certified Codeable Expert Developer, WordPress Engineer based in <b>Ubud, Indonesia</b> <br>
+Certified Codeable Expert Developer, WordPress Engineer based in <b>Vancouver, Canada</b> <br>
 
 [Email](mailto:hello@valera.codes)  / [Telegram](https://t.me/ValeriiVasyliev)  / [Website](https://valera.codes/) / [LinkedIn](https://www.linkedin.com/in/vvasyliev/) / [GitHub](https://github.com/ValeriiVasyliev) / [RU Stack Overflow](https://ru.stackoverflow.com/users/306230/valerii-vasiliev) 
 
@@ -89,7 +89,7 @@ Development of websites, technical support.
 
 ## Languages
 
-**English**: B2 <br>
+**English**: B2+ <br>
 **Russian**: Native <br>
 **Ukrainian**: Native <br>
 **Spanish**: A1 <br>
